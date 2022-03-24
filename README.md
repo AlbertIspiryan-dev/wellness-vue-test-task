@@ -9,7 +9,7 @@ Made with technologies:
 - VueJS 2
 - ChartJS
 
-All styles are custom created. Used re-uusable components, so this project can be easly expended in the future.
+All styles are custom created. Used re-usable components, so this project can be easly expended in the future.
 
 For icons used svg files.
 
