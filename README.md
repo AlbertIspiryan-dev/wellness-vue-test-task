@@ -1,5 +1,18 @@
 # vue-test-task
 
+## 2021 Wellness Plan
+
+Welness Plan card test task. 
+
+Made with technologies:
+
+- VueJS 2
+- ChartJS
+
+All styles are custom created. Used re-uusable components, so this project can be easly expended in the future.
+
+For icons used svg files.
+
 ## Project setup
 ```
 npm install
@@ -14,11 +27,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
